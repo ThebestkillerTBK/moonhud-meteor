@@ -1,4 +1,4 @@
-# Meteor Addon Template
+# MoonHud-meteor
 
 A template to allow easy usage of the Meteor Addon API.
 
